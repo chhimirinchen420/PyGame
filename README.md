@@ -4,13 +4,12 @@ Block_Breakers
 # Block Breaker Game
 
 # Table of Contents
-Description
-Getting Started
-Gameplay
-Controls
-Demo
-Contributing
-License
+Description,
+Getting Started,
+Gameplay,
+Controls,
+Contributing,
+License and
 Acknowledgments
 
 # Description
