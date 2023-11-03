@@ -4,13 +4,17 @@ Block_Breakers
 # Block Breaker Game
 
 # Table of Contents
+Acknowledgments,
 Description,
 Getting Started,
 Gameplay,
 Controls,
-Contributing,
-License and
-Acknowledgments
+Contributing and
+License.
+
+# Acknowledgments
+Special thanks to the Pygame community for creating a fantastic library.
+Inspiration for this project came from classic block breaker games.
 
 # Description
 This is a simple brick breaker game created using Pygame.
@@ -44,6 +48,4 @@ Please follow our Contribution Guidelines.
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Acknowledgments
-Special thanks to the Pygame community for creating a fantastic library.
-Inspiration for this project came from classic block breaker games.
+
