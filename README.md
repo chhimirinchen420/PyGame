@@ -45,7 +45,5 @@ Try to keep the ball in play and destroy all the blocks to win.
 If you'd like to contribute to this project, feel free to submit pull requests and open issues. 
 Please follow our Contribution Guidelines.
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
